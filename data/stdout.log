@@ -1,0 +1,6 @@
+Starting ladder game...
+INFO:sc2.protocol:Client status changed to Status.in_game (was None)
+INFO:root:Player 2 - Bot Bot_IV(Protoss)
+ERROR:asyncio:Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002647EC68C88>
+INFO:sc2.protocol:Cannot receive: Connection already closed.
